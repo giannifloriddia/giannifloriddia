@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Gianni and I'm a computer and multimedia engineer student from Portugal</h2>
+<h2 align="left">Hi! My name is Gianni and I'm a computer and multimedia engineering student from Portugal</h2>
 
 ###
 
